@@ -13,7 +13,7 @@ Repositório com os princípios básicos da linguagem de programação JavaScrip
 
 ---
 [**```Operadores```**](Operadores/main.js)  
-<kbd>=</kbd> <kbd>+=</kbd> <kbd>-=</kbd> <kbd>*=</kbd> <kbd>/=</kbd> <kbd>%=</kbd> <kbd>**=</kbd> <kbd><<=</kbd> <kbd>>>=</kbd> <kbd>>>>=</kbd> <kbd>&=</kbd> <kbd>|=</kbd> <kbd>^=</kbd> <kbd>==</kbd> <kbd>>=</kbd> <kbd><=</kbd> <kbd>></kbd> <kbd><</kbd> <kbd>===</kbd> <kbd>!=</kbd> <kbd>!==</kbd> <kbd>&&</kbd> <kbd>||</kbd> <kbd>!</kbd> <kbd>+</kbd> <kbd>-</kbd> <kbd>\*</kbd> <kbd>/</kbd> <kbd>%</kbd> <kbd>\*\*</kbd> <kbd>+""</kbd> <kbd>++x</kbd> <kbd>x++</kbd> <kbd>--x</kbd> <kbd>x--</kbd> <kbd>+true</kbd> <kbd>&</kbd> <kbd>|</kbd> <kbd>^</kbd> <kbd>~</kbd> <kbd><<</kbd> <kbd>>></kbd> <kbd>>>></kbd> <kbd>ternário ( exp ? v1 ? v2)</kbd> <kbd>,</kbd> <kbd>type of</kbd> <kbd>delete</kbd> <kbd>void</kbd> <kbd>in</kbd> <kbd>instance of</kbd>
+<kbd>=</kbd> <kbd>+=</kbd> <kbd>-=</kbd> <kbd>*=</kbd> <kbd>/=</kbd> <kbd>%=</kbd> <kbd>**=</kbd> <kbd><<=</kbd> <kbd>>>=</kbd> <kbd>>>>=</kbd> <kbd>&=</kbd> <kbd>|=</kbd> <kbd>^=</kbd> <kbd>==</kbd> <kbd>>=</kbd> <kbd><=</kbd> <kbd>></kbd> <kbd><</kbd> <kbd>===</kbd> <kbd>!=</kbd> <kbd>!==</kbd> <kbd>&&</kbd> <kbd>||</kbd> <kbd>!</kbd> <kbd>+</kbd> <kbd>-</kbd> <kbd>\*</kbd> <kbd>/</kbd> <kbd>%</kbd> <kbd>\*\*</kbd> <kbd>+""</kbd> <kbd>++x</kbd> <kbd>x++</kbd> <kbd>--x</kbd> <kbd>x--</kbd> <kbd>+true</kbd> <kbd>&</kbd> <kbd>|</kbd> <kbd>^</kbd> <kbd>~</kbd> <kbd><<</kbd> <kbd>>></kbd> <kbd>>>></kbd> <kbd>ternário (exp ? v1 ? v2)</kbd> <kbd>,</kbd> <kbd>type of</kbd> <kbd>delete</kbd> <kbd>void</kbd> <kbd>in</kbd> <kbd>instance of</kbd>
 
 ---
 [**```Loops (Estruturas de repetição)```**](Loops/main.js)  
