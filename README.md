@@ -1,5 +1,5 @@
 # js_basic
-<img height="40" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" />  
+<img height="37" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" />  
 
 Repositório com os princípios básicos da linguagem de programação JavaScript, com base nos tutoriais e artigos da [MDN](https://developer.mozilla.org/en-US/).
 
