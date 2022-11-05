@@ -1,7 +1,7 @@
 # js_basic
 <img height="37" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" />  
 
-Repositório com os princípios básicos da linguagem de programação JavaScript, com base nos tutoriais e artigos da [MDN](https://developer.mozilla.org/en-US/).
+Repositório com os princípios básicos da linguagem de programação JavaScript, com base nos tutoriais e artigos da [MDN](https://developer.mozilla.org/en-US/) e [VisualDicas](https://www.visualdicas.com.br/programacao/js/53-como-usar-temporizaores-em-javascript).
 
 ---
 [**```Variáveis```**](Variáveis/main.js)  
