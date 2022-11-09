@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	display: flex;
+	background-color: #444;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;  /*  faz os itens se moverem para baixo caso o espaço fique curto  */
+}
+.botao{
+	margin: 0.9em;
+	padding: 5px;
+	background-color: #222;
+	color: #fff;
+	border: 2px double #bbb;  /*  border {border-width, border-style (required), border-color}  */
+	cursor: pointer;
+	transition: 0.5s;
+	border-radius: 5px;
+}
+.botao:hover{     /*  Clicker sobre o botão  */
+	background-color: #444;
+}
+.botao:active{    /*  Momento do click sobre o botão  */
+	background-color: #999;
+	border: 2px solid #111;
+
+}
+.botao:visited{   /*  Após o click  */
+	background-color: #eee;
+	color: #111;
+	border: 3px thick #28f;
+}
+.botao h3{
+	padding: 5px;
+	transition: .5s;
+}
+#gmt{
+	border: none;
+}
+#gmt::visited{
+	border: 1px solid #0001;
+	border-radius: 2px;
+	background-color: #fa5;
+	color: #000;
+}
