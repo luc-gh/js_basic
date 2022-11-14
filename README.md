@@ -9,11 +9,11 @@ Repositório com os princípios básicos da linguagem de programação JavaScrip
 
 ---
 [**```Tipos de dados```**](Tipos%20de%20dados/main.js)  
-<kbd>iundefined</kbd> <kbd>NaN</kbd> <kbd>null</kbd> <kbd>Boolean</kbd> <kbd>strings - métodos | concatenação</kbd> <kbd>números - propriedades | métodos | conversão</kbd>
+<kbd>undefined</kbd> <kbd>NaN</kbd> <kbd>null</kbd> <kbd>Boolean</kbd> <kbd>strings - métodos | concatenação</kbd> <kbd>números - propriedades | métodos | conversão</kbd>
 
 ---
 [**```Operadores```**](Operadores/main.js)  
-<kbd>=</kbd> <kbd>+=</kbd> <kbd>-=</kbd> <kbd>*=</kbd> <kbd>/=</kbd> <kbd>%=</kbd> <kbd>**=</kbd> <kbd><<=</kbd> <kbd>>>=</kbd> <kbd>>>>=</kbd> <kbd>&=</kbd> <kbd>|=</kbd> <kbd>^=</kbd> <kbd>==</kbd> <kbd>>=</kbd> <kbd><=</kbd> <kbd>></kbd> <kbd><</kbd> <kbd>===</kbd> <kbd>!=</kbd> <kbd>!==</kbd> <kbd>&&</kbd> <kbd>||</kbd> <kbd>!</kbd> <kbd>+</kbd> <kbd>-</kbd> <kbd>\*</kbd> <kbd>/</kbd> <kbd>%</kbd> <kbd>\*\*</kbd> <kbd>+""</kbd> <kbd>++x</kbd> <kbd>x++</kbd> <kbd>--x</kbd> <kbd>x--</kbd> <kbd>+true</kbd> <kbd>&</kbd> <kbd>|</kbd> <kbd>^</kbd> <kbd>~</kbd> <kbd><<</kbd> <kbd>>></kbd> <kbd>>>></kbd> <kbd>ternário (exp ? v1 ? v2)</kbd> <kbd>,</kbd> <kbd>type of</kbd> <kbd>delete</kbd> <kbd>void</kbd> <kbd>in</kbd> <kbd>instance of</kbd>
+<kbd>=</kbd> <kbd>+=</kbd> <kbd>-=</kbd> <kbd>*=</kbd> <kbd>/=</kbd> <kbd>%=</kbd> <kbd>**=</kbd> <kbd><<=</kbd> <kbd>>>=</kbd> <kbd>>>>=</kbd> <kbd>&=</kbd> <kbd>|=</kbd> <kbd>^=</kbd> <kbd>==</kbd> <kbd>>=</kbd> <kbd><=</kbd> <kbd>></kbd> <kbd><</kbd> <kbd>===</kbd> <kbd>!=</kbd> <kbd>!==</kbd> <kbd>&&</kbd> <kbd>||</kbd> <kbd>!</kbd> <kbd>+</kbd> <kbd>-</kbd> <kbd>\*</kbd> <kbd>/</kbd> <kbd>%</kbd> <kbd>\*\*</kbd> <kbd>+""</kbd> <kbd>++x</kbd> <kbd>x++</kbd> <kbd>--x</kbd> <kbd>x--</kbd> <kbd>+true</kbd> <kbd>&</kbd> <kbd>|</kbd> <kbd>^</kbd> <kbd>~</kbd> <kbd><<</kbd> <kbd>>></kbd> <kbd>>>></kbd> <kbd>ternário (cond ? exp1 : exp2)</kbd> <kbd>,</kbd> <kbd>type of</kbd> <kbd>delete</kbd> <kbd>void</kbd> <kbd>in</kbd> <kbd>instance of</kbd>
 
 ---
 [**```Loops (Estruturas de repetição)```**](Loops/main.js)  
@@ -25,7 +25,7 @@ Repositório com os princípios básicos da linguagem de programação JavaScrip
 
 ---
 [**```Funções```**](Funções/main.js)  
-<kbd>declaração</kbd> <kbd>chamada</kbd> <kbd>parâmetros</kbd> <kbd>expressão de função</kbd> <kbd>função auto-referenciativa</kbd> <kbd>recursividade</kbd> <kbd>hierarquia</kbd> <kbd>pilha</kbd> <kbd>funções aninhadas</kbd> <kbd>cláusuras</kbd> <kbd>argumentos</kbd> <kbd>parâmetro pré-defiinidos</kbd> <kbd>funções curtas</kbd> <kbd>funções da linguagem</kbd>
+<kbd>declaração</kbd> <kbd>chamada</kbd> <kbd>parâmetros</kbd> <kbd>expressão de função</kbd> <kbd>função auto-referenciativa</kbd> <kbd>recursividade</kbd> <kbd>hierarquia</kbd> <kbd>pilha</kbd> <kbd>funções aninhadas</kbd> <kbd>cláusuras</kbd> <kbd>argumentos</kbd> <kbd>parâmetros pré-defiinidos</kbd> <kbd>funções curtas</kbd> <kbd>funções da linguagem</kbd>
 
 ---
 [**```Objetos - Parte 1```**](Objetos/main-1.js)  
@@ -54,3 +54,7 @@ Repositório com os princípios básicos da linguagem de programação JavaScrip
 ---
 [**```Callbacks, Promises, Async-Await```**](Callbacks,%20Promises,%20Async-Await/main.js)  
 <kbd>callbacks</kbd> <kbd>promises</kbd> <kbd>async</kbd> <kbd>await</kbd> <kbd>arquitetura síncrona/assíncrona</kbd> <kbd>conceitos</kbd> <kbd>função setada</kbd> <kbd>setTimeout</kbd> <kbd>pending</kbd> <kbd>fulfilled</kbd> <kbd>rejected</kbd> <kbd>resolve</kbd> <kbd>reject</kbd> <kbd>funções aninhadas</kbd> <kbd>encadeamento</kbd> <kbd>.then</kbd> <kbd>.catch</kbd>
+
+---
+[**```Datas```**](Datas/main.js)  -  [```HTML```](Datas/index.html)  -  [<code>CSS</code>](Datas/style.css)  
+<kbd>button</kbd> <kbd>onClick</kbd> <kbd>display</kbd> <kbd>flex-box</kbd> <kbd>border</kbd> <kbd>botao:hover:active:visited</kbd> <kbd>switch-case</kbd> <kbd>getElementById</kbd> <kbd>segundos</kbd> <kbd>minutos</kbd> <kbd>horas</kbd> <kbd>dia</kbd> <kbd>mês</kbd> <kbd>ano</kbd> <kbd>new Date</kbd> <kbd>setTimeout</kbd>
